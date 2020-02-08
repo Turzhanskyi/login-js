@@ -10,9 +10,9 @@
 
 Udemy URL: <https://www.udemy.com/course/modern-javascript-from-beginning/learn/lecture/16226014#overview>
 
-Hosting URL: <>
+Hosting URL: <https://project-login-b4a2a.firebaseapp.com>
 
-Your site is ready to be published at: <>
+Your site is ready to be published at: <https://turzhanskyi.github.io/project-login/dist/index.html>
 
 ### Для роботи локально з проектом необхідно:
 

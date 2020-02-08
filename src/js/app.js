@@ -37,3 +37,5 @@ async function onSubmit() {
     notify({ mas: "Login failed", className: "alert-danger" });
   }
 }
+
+// data auth: "{"email":"s@hfd.s","password":"sacds"}"
