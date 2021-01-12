@@ -1,25 +1,15 @@
-# Проект login
+# Project [login-js](https://project-login-b4a2a.firebaseapp.com)
 
-#### Розділ 7: Аутентифікація.
+## [Udemy Course](https://www.udemy.com/course/modern-javascript-from-beginning/learn/lecture/16226014#overview) Modern JavaScript + Vue from scratch on real projects.
 
-## Сучасний JavaScript + Vue з нуля на реальних проектах.
+### Instructor: [Denys Mescheryakov](https://www.udemy.com/user/denys-mescheryakov/)
 
-Курс для початківців розробників. Практика на реальних проектах. Домашні завдання. JS ES6 +, Vue.js, ООП, AJAX, Webpack
+### To work locally with the project you need:
 
-### Автор: Denys Mescheryakov
-
-Udemy URL: <https://www.udemy.com/course/modern-javascript-from-beginning/learn/lecture/16226014#overview>
-
-Hosting URL: <https://project-login-b4a2a.firebaseapp.com>
-
-Your site is ready to be published at: <https://turzhanskyi.github.io/project-login/dist/index.html>
-
-### Для роботи локально з проектом необхідно:
-
-#### 1. Встановити пакети
+#### 1. Install packages
 
 npm i
 
-#### 2. Запустити webpack-dev-server
+#### 2. Run webpack-dev-server
 
 npm run dev
